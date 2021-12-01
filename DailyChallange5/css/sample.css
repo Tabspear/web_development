@@ -1,0 +1,68 @@
+body {
+  /* background-image: url(../imgfolder/nature-5454488__340.jpeg); */
+  background-color: plum;
+  color: white;
+}
+
+.navClass {
+  background-color: cadetblue;
+  color: darksalmon;
+  display: inline;
+}
+
+.nav ul {
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.nav ul li {
+  display: inline;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+
+.box {
+  display: inline;
+  width: 100%;
+}
+
+.box .sectionClass,
+.box .articleClass,
+.box .asideClass {
+  width: 20%; 
+}
+
+.sectionClass {
+  color: rgb(14, 223, 66);
+  background-color: cornflowerblue;
+  padding: 50px;
+  margin: 10px;
+  border-style: solid;
+}
+
+.articleClass {
+  color: rgb(14, 223, 66);
+  background-color: cornflowerblue;
+  padding: 50px;
+  margin: 10px;
+  border-style: solid;
+  border-bottom: 25px;
+}
+
+.asideClass {
+  color: rgb(14, 223, 66);
+  background-color: cornflowerblue;
+  padding: 50px;
+  margin: 10px;
+  border-style: solid;
+  border-bottom: 25px;
+}
+
+.footerClass {
+  border-bottom: 25px;
+}
